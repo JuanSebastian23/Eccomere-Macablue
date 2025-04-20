@@ -1,3 +1,33 @@
+<link rel="stylesheet" href="frontend/src/assets/css/newsletter.css">
+
+<!-- Newsletter -->
+<div class="newsletter-section bg-white py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 p-0">
+                <img src="frontend/src/assets/img/newsletter.webp" class="img-fluid w-100" alt="Newsletter image" style="object-fit: cover; height: 100%;">
+            </div>
+            <div class="col-lg-6 p-5">
+                <h2 class="display-5 fw-bold mb-3" style="color: #000;">Suscríbete a nuestro newsletter :)</h2>
+                <p class="text-dark mb-4">Entérate de lo último en tendencia, promociones y noticias exclusivas que tenemos para ti.</p>
+                
+                <form class="newsletter-form">
+                    <div class="mb-4">
+                        <input type="email" class="form-control form-control-lg border-0 bg-light" placeholder="Correo electrónico" required>
+                    </div>
+                    <div class="form-check mb-4">
+                        <input class="form-check-input" type="checkbox" id="privacyPolicy" required>
+                        <label class="form-check-label small" for="privacyPolicy">
+                            He leído, acepto y autorizo el <a href="#" class="text-dark text-decoration-underline">tratamiento de mis datos personales</a> según la <a href="#" class="text-dark text-decoration-underline">Política de Protección de Datos</a>
+                        </label>
+                    </div>
+                    <button type="submit" class="btn btn-success w-100 py-3" style="background-color: #98F9D3; color: #000; border: none;">¡Suscríbete ahora!</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
 <footer class="footer">
         <div class="container">
             <div class="row">
