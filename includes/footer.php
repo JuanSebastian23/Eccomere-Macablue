@@ -101,7 +101,7 @@
                     <p class="mb-md-0">&copy; <?php echo date('Y'); ?> Macablue. Todos los derechos reservados.</p>
                 </div>
                 <div class="col-md-6 text-md-end">
-                    <p class="mb-0">Diseñado con <i class="fas fa-heart text-danger"></i> por Macablue Team</p>
+                    <p class="mb-0">Diseñado con <i class="fas fa-heart text-danger"></i> por JuanseDev</p>
                 </div>
             </div>
         </div>
